@@ -1,0 +1,22 @@
+# Raw data is never committed — pulled via statsbombpy (see data/README.md)
+data/raw/
+*.parquet
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets / OS / editor
+.env
+.DS_Store
+.vscode/
+.idea/

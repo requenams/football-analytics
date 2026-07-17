@@ -1,0 +1,8 @@
+statsbombpy
+mplsoccer
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+# streamlit   # uncomment when you build the shortlist tool
