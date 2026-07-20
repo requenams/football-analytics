@@ -2,9 +2,10 @@
 
 > Maths + Computer Engineering background with ML/AI research experience,
 > moving into football data & recruitment analysis. This repository turns open
-> event data into scouting-grade insight — one self-contained project per folder.
+> event data into scouting-grade insight (one self-contained project per folder).
 
 **Focus:** player evaluation · recruitment shortlisting · data visualisation
+
 **Stack:** Python · statsbombpy · soccerdata · mplsoccer · pandas · scikit-learn
 
 📍 Zürich · 🇪🇸 Native Spanish · 🇬🇧 Professional English · 🇩🇪 German (A1)
@@ -16,14 +17,13 @@
 
 | # | Project | What it demonstrates |
 |---|---------|----------------------|
-| 01 | [Attacking left-back — Indian Super League 2021/22](projects/isl-left-back/) | End-to-end recruitment workflow with StatsBomb data: coverage due-diligence, position filtering, per-90 within-league percentiles, and a scouting report |
-| 02 | [Swiss Super League forwards — scouting under data scarcity](projects/swiss-forwards/) | A second data source (FBref via `soccerdata`) and honest handling of a basic-data league — what you can and cannot conclude without xG |
+| 01 | [Attacking left-back — Indian Super League 2021/22](projects/isl-left-back/) | Recruitment workflow with StatsBomb data: coverage due diligence, position filtering, per-90 within league percentiles, and a scouting report |
+| 02 | [Swiss Super League forwards — scouting under data scarcity](projects/swiss-forwards/) | A second data source (FBref via `soccerdata`) and honest handling of a basic-data league: what you can and cannot conclude without xG |
 
 *More on the way — see the roadmap.*
 
 ## Roadmap
 - **Defensive left-back profile** — the second job the same position can do.
-- **Expected-goals model** — my own xG model trained on StatsBomb shot data.
 - **Recruitment shortlist tool** — percentile-ranked, with an interactive front end.
 
 ## Repository layout
@@ -36,4 +36,4 @@ projects/    one self-contained folder per project (code, notebook, report, figu
 - **StatsBomb Open Data** — https://github.com/statsbomb/open-data (project 01)
 - **FBref** via `soccerdata` — https://fbref.com (project 02)
 
-Data is not redistributed here; it is pulled at runtime and cached locally.
+Data is not redistributed here. It is pulled at runtime and cached locally.
