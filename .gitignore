@@ -1,12 +1,31 @@
-scripts/*.pngscripts/*.png
+@'
+# Raw data is never committed — pulled via statsbombpy / soccerdata
+data/raw/
+*.parquet
+*.zip
+*.tar
+football-analytics.tar
 
-# scraper artifacts
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Scraper artifacts (soccerdata / selenium)
 **/downloaded_files/
 *.lock
 uc_driver.exe
 chromedriver.exe
 
-# extras
-football-analytics.tar
-*.tar
-.ipynb_checkpoints/
+# Secrets / OS / editor
+.env
+.DS_Store
+.vscode/
+.idea/
+'@ | Set-Content -Encoding utf8 .gitignore
