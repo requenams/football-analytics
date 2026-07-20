@@ -1,7 +1,7 @@
 # Scouting Report — Attacking Left-Back, Indian Super League 2021/22
 
 **Player:** Saviour Gama  ·  **Club:** Goa  ·  **Position:** Left Wing-Back (LWB)  ·  **Minutes:** 946
-**Author:** *Example / model report*  ·  **Data:** StatsBomb Open Data
+**Author:** *Miguel Requena Micó*  ·  **Data:** StatsBomb Open Data
 
 ![profile](figures/pizza_saviour_gama.png)
 
@@ -9,20 +9,17 @@
 
 ## 1. Summary verdict
 
-Gama is the most advanced creator among left-backs in the 2021/22 Indian Super
-League: no full-back in the division gets into the final third or feeds the box
-more often, and he does it with better-than-average delivery quality. He profiles
+Gama is one of the most advanced creator among left-backs in the 2021/22 Indian Super
+League: no full back in the division gets into the final third or feeds the box
+more often, and he does it with better than average delivery quality. He profiles
 as an auxiliary attacker down the left, best suited to a possession side or a
-back-three that pushes its wing-backs high. He is a **watch-further**, not a
-sign-on-sight — the profile is flattered by his advanced role and rests on the
-thinnest minutes sample in the pool, and this analysis says nothing about his
-defending. Verify on video before acting.
+back three that pushes its wing backs high. 
 
 ## 2. Context & brief
 
 Scouted against a common recruitment need: a modest side looking for an attacking
-left-back or wing-back who adds width and final-third delivery, sourced cheaply
-from an under-scouted market rather than a top-five league.
+left-back or wing-back who adds width and final third delivery, sourced cheaply
+from an under scouted market rather than a top five league.
 
 ## 3. What the data says — strengths
 
