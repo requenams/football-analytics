@@ -4,12 +4,17 @@
 > moving into football data & recruitment analysis. This repository turns open
 > event data into scouting-grade insight (one self-contained project per folder).
 
+**Certifications:** Level 2 Technical Scouting In Football (SP) — *in progress (2026)*
+
 **Focus:** player evaluation · recruitment shortlisting · data visualisation
 
-**Stack:** Python · statsbombpy · soccerdata · mplsoccer · pandas · scikit-learn
+**Stack:** Python · statsbombpy · soccerdata · mplsoccer · pandas · scikit-learn 
+
+**Data sources:** StatsBomb · FBref
 
 📍 Zürich · 🇪🇸 Native Spanish · 🇬🇧 Professional English · 🇩🇪 German (A1)
 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-requena-mico) · ✉️ [requena.lafont@gmail.com](mailto:requena.lafont@gmail.com)
+
 
 ---
 
@@ -23,8 +28,8 @@
 *More on the way — see the roadmap.*
 
 ## Roadmap
-- **Defensive left-back profile** — the second job the same position can do.
-- **Recruitment shortlist tool** — percentile-ranked, with an interactive front end.
+- **Comparison of strikers in the Swiss league**
+- **Recruitment shortlist tool**: percentile-ranked, with an interactive front end.
 
 ## Repository layout
 ```
