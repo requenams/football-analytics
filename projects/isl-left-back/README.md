@@ -22,8 +22,8 @@ So the ISL wasn't a fallback — it was the one league that met the criteria, an
 confirming that up front is itself part of the method.
 
 ## Approach
-1. `coverage_check.py` — competition due-diligence (above).
-2. `isl.py` — load & cache events, compute minutes, build a clean pool of genuine
+1. `coverage_check.py` — competition due diligence (above).
+2. `isl.py` — load and cache events, compute minutes, build a clean pool of genuine
    left-backs (modal position, 900+ minutes).
 3. `01_left_back_offensive_profile.ipynb` — attacking metrics per-90, ranked as
    within-league percentiles, visualised as pizza charts.
