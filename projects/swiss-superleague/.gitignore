@@ -1,0 +1,19 @@
+# Source CSVs from Kaggle. Far too large for git (appearances.csv alone is
+# ~1.9M rows, game_lineups.csv ~3.2M) and freely re-downloadable, so they are
+# excluded. The built database IS committed -- see README for why.
+data/
+*.csv
+
+# The built database is intentionally NOT ignored. The app cannot run on
+# Streamlit Cloud without it, and it is small enough to commit.
+# !football.duckdb  <- kept tracked; do not add a rule excluding it
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/secrets.toml
+*.parquet
